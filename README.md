@@ -58,7 +58,7 @@
 
 Test the performance of the webpage after deploy by using [GTmetrix](https://gtmetrix.com/).
 
-![Project Performane result](./info/digital-clock-performance.png)
+![Project Performane result](./info/digital-clock-performance.jpg)
 
 ---
 
